@@ -1,16 +1,35 @@
-## Hi there 👋
+# Hi, I'm Vinamra Agarwal 👋
 
-<!--
-**vinamra06/vinamra06** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 B.Tech Computer Science & AI Student  
+🤖 Interested in Artificial Intelligence, Machine Learning & Intelligent Systems
 
-Here are some ideas to get you started:
+I enjoy building practical AI/ML projects and exploring how intelligent systems can solve real-world problems.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Featured Projects
+
+### 🎬 CineMatch
+AI-powered movie recommendation and discovery web application with content-based recommendations, mood-based discovery and filtering.
+
+### 🛡️ SentinelAI
+AI-powered Python code analysis and security dashboard for identifying potential issues in Python code.
+
+### 🚁 Smart Drone Delivery
+Secure drone delivery system focused on voice-based OTP verification and parcel handover. Gazebo simulation is currently in progress.
+
+### 🤖 AI Agent — Meta Hackathon
+AI agent project developed as part of a Meta hackathon, focused on building an intelligent solution using agent-based workflows.
+
+## 🔨 Currently Building
+
+- 🧠 Deep Learning Project — CardioSense: ECG Arrhythmia Detection & Reporting System
+- 📝 NLP Project — In Progress
+
+Both projects are currently under development and will be shared soon.
+
+## 🛠️ Tech & Tools
+
+Python • Machine Learning • Deep Learning • NLP • SQL • Flask • Git & GitHub
+
+## 📚 Currently Exploring
+
+Artificial Intelligence • Deep Learning • NLP • MLOps • AI Agents
