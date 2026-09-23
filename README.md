@@ -16,8 +16,8 @@ AI-powered Python code analysis and security dashboard for identifying potential
 ### 🚁 Smart Drone Delivery
 Secure drone delivery system focused on voice-based OTP verification and parcel handover. Gazebo simulation is currently in progress.
 
-### 🤖 Expense Audit Agent – LLM-Based Policy Compliance |
-AI agent project developed as part of a Meta hackathon, focused on building an intelligent solution using agent-based workflows.
+### 🤖 Expense Audit Agent – LLM-Based Policy Compliance 
+Built an LLM-based AI agent for automated analysis and auditing of employee expense claims.
 
 ## 🔨 Currently Building
 
